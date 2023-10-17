@@ -1,16 +1,19 @@
-# lab-flask
+# Fire Weather Index (FWI) Prediction
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+Predicting the Fire Weather Index (FWI) using Ridge Regression.
 
+## Features
+- Temperature, RH, Ws, Rain
+- FFMC, DMC, DC, ISI, BUI
+- FWI, Classes, Region
 
-To run flask application 
+## Model
+Ridge Regression is used for prediction, handling multicollinearity.
 
-```
-python app.py
-```
+## Usage
+1. Clone the repo.
+2. Install required libraries.
+3. Run `predict_fwi.py` for FWI predictions.
 
-
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+## Contributing
+Contributions, issues, and enhancements are welcome.
