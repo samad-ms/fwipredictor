@@ -17,3 +17,10 @@ Ridge Regression is used for prediction, handling multicollinearity.
 
 ## Contributing
 Contributions, issues, and enhancements are welcome.
+
+## How to Use This Application
+1. Visit [this link](http://fwipredictor-env.eba-xtmexjyb.ap-south-1.elasticbeanstalk.com/predictdata) in your web browser.
+2. Fill in the required details on the page.
+3. Submit the form.
+4. Review the results.
+
